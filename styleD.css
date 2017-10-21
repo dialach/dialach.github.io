@@ -1,0 +1,21 @@
+
+
+.row
+
+{
+
+  margin:50px;
+}
+
+p
+{
+
+  align=center;
+  color:black;
+}
+body
+{
+   background-image: url("./image/background.jpeg");
+
+  color:black;
+}
